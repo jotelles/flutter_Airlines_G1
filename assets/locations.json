@@ -1,0 +1,53 @@
+{
+  "plans": [
+    {
+      "price": "R$ 800,00",
+      "id": "passoFundoParaSaoPaulo",
+      "lat": -23.548685388129464,
+      "lng": -46.67775819507831,
+      "name": "Passo Fundo para São Paulo"
+    },
+    {
+      "price": "R$ 850,00",
+      "id": "passoFundoParaRioDeJaneiro",
+      "lat": -22.91023994310089,
+      "lng": -43.19629490228917,
+      "name": "Passo Fundo para Rio de Janeiro"
+    },
+    {
+      "price": "R$ 1.200,00",
+      "id": "passoFundoParaSalvador",
+      "lat": -12.980679591702474,
+      "lng":  -38.49771260791355,
+      "name": "Passo Fundo para Salvador"
+    },
+    {
+      "price": "R$ 1.300,00",
+      "id": "passoFundoParaRecife",
+      "lat": -8.060299901345093, 
+      "lng":  -34.88615598870183,
+      "name": "Passo Fundo para Recife"
+    },
+    {
+      "price": "R$ 1.400,00",
+      "id": "passoFundoParaFortaleza",
+      "lat": -3.7330042844952906,  
+      "lng": -38.52718508081081,
+      "name": "Passo Fundo para Fortaleza"
+    },
+    {
+      "price": "R$ 2.000,00",
+      "id": "passoFundoParaManaus",
+      "lat": -3.115271799076566,   
+      "lng": -60.0117526009369,
+      "name": "Passo Fundo para Manaus"
+    },
+    {
+      "price": "R$ 600,00",
+      "id": "passoFundoParaFlorianópolis",
+      "lat": -27.594333291784007,    
+      "lng": -48.53076325825772,
+      "name": "Passo Fundo para Florianópolis"
+    }
+  ]
+}
